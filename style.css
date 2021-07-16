@@ -1,0 +1,34 @@
+@media (max-width:600px){
+   
+    #one{
+        order:1
+    }
+    #two{
+        order: 2;
+    }
+    #three{
+        order:4
+    }
+    #four{
+        order: 3;
+    }
+    #five{
+        order:5
+    }
+    #six{
+        order: 6;
+    }
+    #seven{
+        order:8
+    }
+    #eight{
+        order: 7;
+    }
+    .a{
+        text-align: center;
+
+    }
+    .card-body{
+        text-align: center;
+    }
+}
